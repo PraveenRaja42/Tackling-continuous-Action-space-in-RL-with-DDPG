@@ -1,3 +1,3 @@
-# Implementation of DDPG for tackling continous action-space in RL
+# Implementation of Deep Deterministic Policy Gradient(DDPG) on continous action-space
 
 ![](DDPG.gif)
