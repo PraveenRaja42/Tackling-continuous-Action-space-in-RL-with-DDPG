@@ -1,1 +1,2 @@
-# Tackling-continuous-Action-space-in-RL-with-DDPG
+
+![](DDPG.gif)
